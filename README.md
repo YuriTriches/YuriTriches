@@ -21,9 +21,7 @@ Me chamo **Yuri Triches**, sou natural do Rio Grande do Sul e atualmente estou f
 
 ## 📊 Estatísticas
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuriTriches&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
-</p>
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YuriTriches&theme=tokyo-night&area=true&hide_border=true&bg_color=0D1117" width="100%" />
