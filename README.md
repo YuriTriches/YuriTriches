@@ -1,7 +1,7 @@
 # Yuri Triches
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=1a1a1a&height=150&section=header&text=Yuri%20Triches&fontSize=70&animation=fadeIn&fontColor=c0c0c0" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=1a1a1a&height=150&section=header&text=Yuri%20Triches&fontSize=70&animation=fadeIn&fontColor=c0c0c0" width="100%" />
 </p>
 
 <p align="center">
