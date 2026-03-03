@@ -54,5 +54,5 @@ Me chamo **Yuri Triches**, sou natural do Rio Grande do Sul e atualmente estou f
 </p>
 
 <p align="center">
-  <i>"Don't give up, skeleton!"</i>
+  <i>"Jackpot!"</i>
 </p>
