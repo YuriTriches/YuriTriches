@@ -10,7 +10,7 @@
 
 ## Sobre mim
 
-Me chamo **Yuri Triches**, sou natural do Rio Grande do Sul e atualmente estou focado em aprimorar minhas habilidades no desenvolvimento de software. Sou apaixonado por tecnologia e por entender como as coisas funcionam "por baixo do capô", dedicando meu tempo a criar projetos eficientes e aprender novas arquiteturas.
+Me chamo **Yuri Triches**, sou natural do Rio Grande do Sul e atualmente estou focado em aprimorar minhas habilidades no desenvolvimento de software. 
 
 ---
 
@@ -41,14 +41,14 @@ Me chamo **Yuri Triches**, sou natural do Rio Grande do Sul e atualmente estou f
   ### [sitedoyubi]
   *Descrição objetiva do projeto e tecnologias utilizadas.*
   <br>
-  <img src="URL_DA_SUA_IMAGEM_AQUI" width="100%" style="border-radius: 10px;" />
+  <img src="https://4kwallpapers.com/images/wallpapers/dark-souls-iii-2048x2048-18750.jpg" width="100%" style="border-radius: 10px;" />
 
   ---
 
   ### [sitepraminhanamoradaqueamomt]
   *Descrição do projeto e o problema que ele resolve.*
   <br>
-  <img src="URL_DA_SUA_IMAGEM_AQUI" width="100%" style="border-radius: 10px;" />
+  <img src="https://4kwallpapers.com/images/wallpapers/dark-souls-iii-2048x2048-18750.jpg" width="100%" style="border-radius: 10px;" />
 
 </div>
 
