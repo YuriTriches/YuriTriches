@@ -1,8 +1,5 @@
 # Yuri Triches
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=1a1a1a&height=150&section=header&text=Yuri%20Triches&fontSize=70&animation=fadeIn&fontColor=c0c0c0" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=c0c0c0&center=true&vCenter=true&width=435&lines=Desenvolvedor+Backend;Estudante+de+Sistemas;Apaixonado+por+Tecnologia;Resolvendo+Desafios" alt="Typing SVG" />
