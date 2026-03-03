@@ -50,7 +50,7 @@ Me chamo **Yuri Triches**, sou natural do Rio Grande do Sul e atualmente estou f
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YuriTriches&color=ffffff&style=for-the-badge&label=Visualizacoes&labelColor=000000" />
+  <img src="https://komarev.com/ghpvc/?username=YuriTriches&color=007bff&style=for-the-badge&label=Visualizacoes&labelColor=1a1a1a" />
 </p>
 
 <p align="center">
