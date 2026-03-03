@@ -54,5 +54,5 @@ Me chamo **Yuri Triches**, sou natural do Rio Grande do Sul e atualmente estou f
 </p>
 
 <p align="center">
-  <i>"Jackpot!"</i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=500&color=007BFF&center=true&vCenter=true&width=435&height=50&lines=Jackpot!;Jackpot!%20(🔴);Jackpot!;Jackpot!%20(🔵)" alt="Jackpot!" />
 </p>
