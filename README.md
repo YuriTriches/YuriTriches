@@ -41,7 +41,7 @@ Me chamo **Yuri Triches**, sou natural do Rio Grande do Sul e atualmente estou f
   ### [sitedoyubi]
   *Descrição objetiva do projeto e tecnologias utilizadas.*
   <br>
-  <img src="https://th.bing.com/th/id/R.2a02e5657bd7d409b5518ae4a4e2060c?rik=gy%2beiBpR3QdBnQ&riu=http%3a%2f%2ffc07.deviantart.net%2fimages%2fi%2f2003%2f39%2f8%2fb%2fGARU__PUCCA__S_BOYFRIEND.jpg&ehk=VsmLsHd4tr7t2CvngLBOOZMwPjxKOSJtgzMwD%2fUTcqw%3d&risl=&pid=ImgRaw&r=0" width="30%" style="border-radius: 10px;" />
+  <img src="https://i.pinimg.com/736x/23/a0/2b/23a02b1dc35807768236d8cf7c6ead7f.jpg" width="30%" style="border-radius: 10px;" />
 
   ---
 
