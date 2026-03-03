@@ -48,7 +48,7 @@ Me chamo **Yuri Triches**, sou natural do Rio Grande do Sul e atualmente estou f
   ### [sitepraminhanamoradaqueamomt]
   *Descrição do projeto e o problema que ele resolve.*
   <br>
-  <img src="[https://4kwallpapers.com/images/wallpapers/dark-souls-iii-2048x2048-18750.jpg](https://i.pinimg.com/originals/c7/65/8e/c7658e41834c4bd376976cc948937ebd.png)" width="30%" style="border-radius: 10px;" />
+  <img src="https://i.pinimg.com/originals/c7/65/8e/c7658e41834c4bd376976cc948937ebd.png" width="30%" style="border-radius: 10px;" />
 
 </div>
 
