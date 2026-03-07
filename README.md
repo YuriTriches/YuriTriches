@@ -29,7 +29,7 @@ Me chamo **Yuri Triches**, sou do Rio Grande do Sul e atualmente estou focado em
 
 ---
 
-## 🚀 Projetos em Destaque
+## 
 
 <div align="center">
 
